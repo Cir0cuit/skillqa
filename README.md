@@ -1,5 +1,7 @@
 # skillqa: Skill Quality Assurance for Claude Code
 
+## Don’t keep or install token eating garbage just because some wannabe AI vibe coding influencer told you to!
+
 **Security scanners tell you whether an extension is dangerous. skillqa tells
 you whether it is worth having.**
 
